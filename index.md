@@ -8,3 +8,6 @@
 ```
 int a = 10;
 ```
+- [ ] Finish the course
+- [ ] Start commiting to new project
+- [ ] Get to know more programming language
